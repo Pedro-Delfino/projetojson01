@@ -1,0 +1,8 @@
+{
+    "1": {
+        "nome": "maca",
+        "preco": 5.0,
+        "quantidade": 10,
+        "disponivel": true
+    }
+}
